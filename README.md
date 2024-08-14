@@ -56,6 +56,9 @@ Asegúrate de que el directorio del escritorio (`DIRECTORIO_ESCRITORIO`) esté c
 - Sistema operativo: Linux
 - Dependencias:
     -- lynx
+  
     -- mailutils (para enviar correos electrónicos)
+  
     -- sudo (para comandos que requieren privilegios administrativos)
+  
     -- apt (para actualizaciones y gestión de paquetes)
